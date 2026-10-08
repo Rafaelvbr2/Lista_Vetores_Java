@@ -18,10 +18,6 @@ Durante os exercícios, foram utilizados arrays, estruturas de repetição e con
 7. Ranking de vendedores
 8. Juntando relatórios
 
- Como executar
-
-Os exercícios estão separados em pacotes dentro da pasta `src`.
-
-Para executar, basta abrir o projeto no IntelliJ IDEA, escolher o exercício desejado e executar a classe `Main.java`.
+ 
 
 Observação Prof diego: Foram utilizados apenas arrays, sem ArrayList ou métodos prontos de ordenação.
