@@ -3,7 +3,7 @@ Boa noite prof diego
 
  Sobre a atividade
 
-Esta atividade reúne oito exercícios de vetores desenvolvidos em Java, com o objetivo de praticar o conteúdo estudado em sala de aula.
+
 
 Durante os exercícios, foram utilizados arrays, estruturas de repetição e condições para resolver situações como controle de estoque, vendas, reajuste de salários e organização de dados.
 
